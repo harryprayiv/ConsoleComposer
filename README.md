@@ -2,16 +2,15 @@
 
 [![Platform](https://img.shields.io/badge/platform-iOS-000000.svg)](http://cocoadocs.org/docsets)
 [![Language](https://img.shields.io/badge/language-Swift-orange.svg)](https://developer.apple.com/swift/)
-[![License](https://img.shields.io/badge/license-MIT%20License-lightgrey.svg)](https://github.com/phpmaple/Stick-Hero-Swift/blob/master/LICENSE)
 
 # Stick-Hero-Swift
-a universal iOS Game using Swift 4 and iOS SpriteKit.
+an iPad DMX Controller using Swift 4.2 and iOS SpriteKit and Metal.
 
 # Requirements
 
-- iOS10
-- Swift4
-- Xcode9
+- iOS12.1
+- Swift4.2
+- Xcode10.1
 
 # License
 The MIT License (MIT)
