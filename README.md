@@ -3,7 +3,7 @@
 [![Platform](https://img.shields.io/badge/platform-iOS-000000.svg)](http://cocoadocs.org/docsets)
 [![Language](https://img.shields.io/badge/language-Swift-orange.svg)](https://developer.apple.com/swift/)
 
-# Stick-Hero-Swift
+# Console-Composer-Swift
 an iPad DMX Controller using Swift 4.2 and iOS SpriteKit and Metal.
 
 # Requirements
